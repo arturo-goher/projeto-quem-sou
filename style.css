@@ -170,6 +170,19 @@ footer {
     left: 0;
   }
 }
+footer {
+  padding: 0 24px;
+}
 #textoClicavel {
+  cursor: pointer;
   text-decoration: underline;
+  display: inline-block;
+}
+
+#textoClicavel span:hover {
+  background: var(--highlight-color);
+}
+
+.light #textoClicavel span:hover {
+  background: var(--highlight-color);
 }
