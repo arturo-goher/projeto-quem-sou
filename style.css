@@ -170,3 +170,6 @@ footer {
     left: 0;
   }
 }
+#textoClicavel {
+  text-decoration: underline;
+}
