@@ -16,9 +16,9 @@ Testando minhas habilidades de HTML, CSS e JS para a criação uma página simpl
 
 <br>
 
-<!-- <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p> -->
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/layout.png" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
